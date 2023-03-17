@@ -134,6 +134,8 @@ zoho_pic.setAttribute("id","zoho_img");
 
 link_zoho.setAttribute("href","https://www.zoho.com/");
 link_zoho.setAttribute("target","_blank")
+link_zoho.setAttribute("style","padding-right: 306px;");
+
 
 var restart=document.createElement("button");
 parent.appendChild(restart);
